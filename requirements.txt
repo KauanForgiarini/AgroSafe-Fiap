@@ -1,0 +1,4 @@
+# AgroSafe — Dependências Python
+# Instale com: pip install -r requirements.txt
+
+oracledb>=1.4.0   # Conexão com Oracle Database (python-oracledb)

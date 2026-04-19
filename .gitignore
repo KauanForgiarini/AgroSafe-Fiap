@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# Dados gerados pela aplicação (não versionar dados reais)
+src/registros_perdas.txt
+src/registros_perdas.json
+
+# Credenciais — NUNCA commitar
+.env
+config/secrets.py
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
