@@ -13,6 +13,9 @@
 ## 👨‍🎓 Integrantes
 
 - Kauan Maciel Forgiarini
+- Wagner Adriano De Souza Silva Junior
+- Thiago Lucas da Costa Bessa
+- Beatriz de Oliveira Ossola Ribeiro
 
 ## 👩‍🏫 Professores
 
