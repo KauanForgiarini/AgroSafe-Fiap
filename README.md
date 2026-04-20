@@ -16,6 +16,7 @@
 - Wagner Adriano De Souza Silva Junior
 - Thiago Lucas da Costa Bessa
 - Beatriz de Oliveira Ossola Ribeiro
+- Willian Kauê Tobias do Carmo 
 
 ## 👩‍🏫 Professores
 
