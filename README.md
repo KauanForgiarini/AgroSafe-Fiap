@@ -21,10 +21,10 @@
 ## 👩‍🏫 Professores
 
 ### Tutor(a)
-- André Godoi Chiovanto
+- Sabrina Otoni
 
 ### Coordenador(a)
-- Sabrina Otoni
+- Andre Godoi
 
 ---
 
